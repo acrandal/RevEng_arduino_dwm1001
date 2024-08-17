@@ -12,8 +12,12 @@ NodePosition KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-getPosition KEYWORD2
-
+begin       KEYWORD2
+isNodeConnected KEYWORD2
+isLocationReady KEYWORD2
+getLocation KEYWORD2
+isInTagMode KEYWORD2
+isInAnchorMode KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
